@@ -1,4 +1,6 @@
 # Cai's Hackpad Submission
+# Challenges & Inspiration
+I've never used kicad before so I really wanted to learn how to build using it and it was enjoyable to learn.
 # PCB
 ![PCB.png](HackpadImages/PCB.png)
 # Schematic
