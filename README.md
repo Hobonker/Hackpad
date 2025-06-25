@@ -1,9 +1,9 @@
 # Cai's Hackpad Submission
 # PCB
-![PCB.png](Hackpad Images/PCB.png)
+![PCB.png](HackpadImages/PCB.png)
 # Schematic
-![Schematic.png](Hackpad Images/Schematic.png)
+![Schematic.png](HackpadImages/Schematic.png)
 # CAD
-![FullBody.png](Hackpad Images/FullBody.png)
+![FullBody.png](HackpadImages/FullBody.png)
 # Firmware
 I wrote firmware in KMK check main.py
